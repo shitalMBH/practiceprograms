@@ -32,7 +32,7 @@ public class reverseString {
 		c.reverse();
 		System.out.println(c);
 	}
-
+//ashhaskj
 }
 /*
  * Method used length() >> String class charAt(i) >> String class
