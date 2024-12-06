@@ -16,7 +16,7 @@ public class DefinationOfArray {
 		String[] str1 = str.split(" ");
 		System.out.println(Arrays.toString(str1));
 
-		// int Array
+		// Integer Array
 		System.out.println("---int Array-----");
 		int a[] = { 1, 2, 3, 4, 5, 6, 7 };
 		for (int i = 0; i < a.length; i++) {
